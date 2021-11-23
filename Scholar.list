@@ -52,7 +52,7 @@ DOMAIN-SUFFIX,sagepub.com,Scholar
 DOMAIN-SUFFIX,sciencedirect.com,Scholar
 DOMAIN-SUFFIX,sciencemag.org,Scholar
 DOMAIN-SUFFIX,scitation.org,Scholar
-DOMAIN-KEYWORD,sci-hub,Scholar
+DOMAIN-KEYWORD,sci-hub,DIRECT
 DOMAIN-SUFFIX,scopus.com,Scholar
 DOMAIN-SUFFIX,siam.org,Scholar
 DOMAIN-SUFFIX,spiedigitallibrary.org,Scholar
