@@ -1,6 +1,6 @@
 # > Scholar
-DOMAIN,scholar.google.com,Scholar
-DOMAIN,patents.google.com,Scholar
+DOMAIN,scholar.google.com,proxy
+DOMAIN,patents.google.com,proxy
 DOMAIN-SUFFIX,acm.org,Scholar
 DOMAIN-SUFFIX,acs.org,Scholar
 DOMAIN-SUFFIX,aip.org,Scholar
