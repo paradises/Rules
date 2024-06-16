@@ -294,7 +294,7 @@ DOMAIN-SUFFIX,onetad.com,reject
 DOMAIN-SUFFIX,optaim.com,reject
 DOMAIN-SUFFIX,optimix.asia,reject
 DOMAIN-SUFFIX,optimix.cn,reject
-DOMAIN-SUFFIX,optimizelyapis.co,rejectm
+DOMAIN-SUFFIX,optimizelyapis.com,reject
 DOMAIN-SUFFIX,overture.com,reject
 DOMAIN-SUFFIX,p0y.cn,reject
 DOMAIN-SUFFIX,pagechoice.net,reject
