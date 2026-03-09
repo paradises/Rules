@@ -1,4 +1,7 @@
 # > Scholar
+DOMAIN-KEYWORD,sciencedirectassets,Scholar
+DOMAIN-KEYWORD,sciencedirect,Scholar
+DOMAIN-KEYWORD,elsevier,Scholar
 DOMAIN,scholar.google.com,proxy
 DOMAIN,patents.google.com,proxy
 DOMAIN-SUFFIX,msi-eureka.com,Scholar
@@ -19,7 +22,7 @@ DOMAIN-SUFFIX,cell.com,Scholar
 DOMAIN-SUFFIX,clarivate.com,Scholar
 DOMAIN-SUFFIX,csiro.au,Scholar
 DOMAIN-SUFFIX,ebscohost.com,Scholar
-DOMAIN-SUFFIX,elsevier.com,Scholar
+DOMAIN-SUFFIX,els-cdn.com,Scholar
 DOMAIN-SUFFIX,emerald.com,Scholar
 DOMAIN-SUFFIX,endnote.com,Scholar
 DOMAIN-SUFFIX,engineeringvillage.com,Scholar
@@ -68,5 +71,4 @@ DOMAIN-SUFFIX,wiley.com,Scholar
 DOMAIN-SUFFIX,worldbank.org,Scholar
 DOMAIN-SUFFIX,worldscientific.com,Scholar
 DOMAIN-SUFFIX,science.org,Scholar
-DOMAIN-KEYWORD,sciencedirectassets,Scholar
-DOMAIN-KEYWORD,sciencedirect,Scholar
+
