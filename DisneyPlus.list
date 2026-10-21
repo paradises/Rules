@@ -1,0 +1,12 @@
+# DisneyPlus | Quantumult X native rules
+# Prepared: 2026-10-20; local candidate, not published
+# Original: https://raw.githubusercontent.com/paradises/Profiles/master/Quantumult/X/Filter/Media/DisneyPlus.list
+# Additional domain reference: https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX
+# Policy names match profiles_slim_corrected.conf; imports can override with force-policy.
+user-agent, Disney+*, DisneyPlus
+host-suffix, bamgrid.com, DisneyPlus
+host-suffix, disney-plus.net, DisneyPlus
+host-suffix, disneyplus.com, DisneyPlus
+host-suffix, dssott.com, DisneyPlus
+host, cdn.registerdisney.go.com, DisneyPlus
+host-suffix, disneystreaming.com, DisneyPlus
