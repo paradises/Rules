@@ -1,0 +1,10 @@
+# PayPal | Quantumult X native rules
+# Prepared: 2026-10-20; local candidate, not published
+# Original: https://raw.githubusercontent.com/paradises/Profiles/master/Quantumult/X/Filter/PayPal.list
+# Additional domain reference: https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX
+# Policy names match profiles_slim_corrected.conf; imports can override with force-policy.
+user-agent, PayPal*, PayPal
+host-keyword, paypal, PayPal
+host-suffix, paypal.com, PayPal
+host-suffix, paypalobjects.com, PayPal
+host-suffix, paypal.me, PayPal
